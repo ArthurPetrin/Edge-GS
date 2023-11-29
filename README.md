@@ -1,6 +1,6 @@
 // Global Solution Edge
 // Arthur Petrin (RM98735) Gabriel Mazza (RM99265)
-// Video: https://www.youtube.com/watch?v=8Unsqq1YYNk
+// Video: https://www.youtube.com/watch?v=C9Tc5Z4X9Do
 
 #include <WiFi.h>
 #include <OneWire.h>
